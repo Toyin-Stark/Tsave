@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tload</string>
+    <string name="twitch">Open Twitch</string>
+    <string name="learn">Watch Video</string>
+    <string name="starts">Downloading…</string>
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+</resources>
